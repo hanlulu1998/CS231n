@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99d3ca14-b739-4e25-99ef-272118c17529" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="4864b731-db59-4ade-a8d1-5c43551073dc" />
+  <component name="ProjectId" id="1YCWFFdgdlCZBDTHLXjLFws2M61" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99d3ca14-b739-4e25-99ef-272118c17529" name="Default Changelist" comment="" />
+      <created>1582446950581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582446950581</updated>
+      <workItem from="1582446955458" duration="1892000" />
+      <workItem from="1582524605613" duration="1217000" />
+      <workItem from="1582525876463" duration="11347000" />
+      <workItem from="1582614384801" duration="11926000" />
+      <workItem from="1582704287443" duration="865000" />
+      <workItem from="1582705563556" duration="175000" />
+      <workItem from="1582705756987" duration="272000" />
+      <workItem from="1582706042179" duration="593000" />
+      <workItem from="1582707068307" duration="2202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="94" key="#Inspections" timestamp="1582525306090">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="367" y="94" key="#Inspections/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1582525306090" />
+    <state x="367" y="94" key="#Updates" timestamp="1582705937459">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="367" y="94" key="#Updates/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1582705937459" />
+    <state x="455" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582705938973">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="455" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1582705938973" />
+    <state x="555" y="192" key="FileChooserDialogImpl" timestamp="1582446978111">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="555" y="192" key="FileChooserDialogImpl/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1582446978111" />
+    <state x="284" y="78" key="SettingsEditor" timestamp="1582446994906">
+      <screen x="0" y="0" width="1549" height="871" />
+    </state>
+    <state x="284" y="78" key="SettingsEditor/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1582446994906" />
+  </component>
+</project>

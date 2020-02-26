@@ -1,6 +1,10 @@
 # 斯坦福大学CS231n2016年冬季课程作业
 
-***所有课程初始代码下载地址http://cs231n.stanford.edu/assignments/***
+*所有课程初始代码下载地址http://cs231n.stanford.edu/assignments/*
+
+*作业题目翻译参考：https://zhuanlan.zhihu.com/p/21930884*
+
+*代码部分注释翻译来自有道翻译和本人，水平有限，多多包含*
 
 [toc]
 
@@ -57,6 +61,34 @@ IPython Notebook文件**Dropout.ipynb**将会帮助你需要实现随机失活�
 ### Q6: Pytorch/TensorFlow入门（编者后添加）
 
 从2017版本后作业2中添加了TensorFlow.ipynb和PyTorch.ipynb作为神经网络框架入门学习，这里提供了2019版本附带的两个文件，原因是2019版本使用的框架版本更新，同时指导更加完善，更易入门。可以选择自己想要的版本学习。
+
+## 课程作业3
+
+### Q1：使用普通RNN进行图像标注（40分）
+
+IPython Notebook文件**RNN_Captioning.ipynb**将会带你使用普通RNN实现一个在微软COCO数据集上的图像标注系统。
+
+### Q2：使用LSTM进行图像标注（35分）
+
+IPython Notebook文件**LSTM_Captioning.ipynb**将会带你实现LSTM，并应用于在微软COCO数据集上进行图像标注。
+
+### Q3：图像梯度：显著图和高效图像（10分）
+
+IPython Notebook文件**NetworkVisualization-PyTorch.ipynb（NetworkVisualization-TensorFlow.ipynb）**将会介绍TinyImageNet数据集。你将使用一个训练好的模型在这个数据集上计算梯度，然后将其用于生成显著图、类可视化、愚弄图像等等。
+
+### Q4：图像生成：类别，反演和风格迁移（30分）
+
+在IPython Notebook文件**StyleTransfer-PyTorch**中，你将会实现风格迁移，把一幅图片的风格转移到另一幅图片上。
+
+### Q5：做点儿其他的！（+10分） 
+
+根据作业内容，做点够酷的事儿。比如作业中没有讲过的其他生成图像的方式？
+
+## Q6：GANs（编者后添加）
+
+在IPython Notebook文件**GANs-PyTorch**中生成对抗网络，用minst检验你的成果。
+
+***若有侵权问题，请联系hanlulu1998@outlook.com***
 
 
 
